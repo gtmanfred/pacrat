@@ -1,5 +1,6 @@
 =head1 NAME
 
+
 pacrat - package config manager using libalpm
 
 =head1 SYNOPSIS
